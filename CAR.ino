@@ -1,11 +1,3 @@
-//SMALL 29.8
-//BIG   49.5
-
-
-
-
-
-
 const int pingPin = 4;//big
 const int echoPin = 5;
 const int GREENB = 11;
