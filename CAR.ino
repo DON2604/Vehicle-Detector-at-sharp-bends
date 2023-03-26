@@ -72,9 +72,6 @@ void loop() {
    
    delay(100);
     
-    
-    
-    
     if(cm<=15)
     digitalWrite(REDS,HIGH);
     else
