@@ -1,3 +1,11 @@
+//SMALL 29.8
+//BIG   49.5
+
+
+
+
+
+
 const int pingPin = 4;//big
 const int echoPin = 5;
 const int GREENB = 11;
@@ -100,47 +108,7 @@ void loop() {
     digitalWrite(GREENB,HIGH);
     else
     digitalWrite(GREENB,LOW);
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    /*/if(cm<19.4)
-    {digitalWrite(REDB,HIGH);
-    digitalWrite(YELLOWB,LOW);
-    digitalWrite(GREENB,LOW);}
-    else if(cm<=19.4 && cm<28.9)
-    {digitalWrite(YELLOWB,HIGH);
-    digitalWrite(GREENB,LOW);
-    digitalWrite(REDB,LOW);}
-    else if(cm>=28.9)
-    {digitalWrite(GREENB,HIGH);
-    digitalWrite(REDB,LOW);
-    digitalWrite(YELLOWB,LOW);}
-     
-   if(cm>=33)
-    {digitalWrite(GREENB,HIGH);
-    digitalWrite(REDB,LOW);
-    digitalWrite(YELLOWB,LOW);}
-   else if(cm<33 && cm>=16.5)
-    {digitalWrite(YELLOWB,HIGH);
-    digitalWrite(REDB,LOW);
-    digitalWrite(GREENB,LOW);}
-   else if(cm<16.5)
-    {digitalWrite(REDB,HIGH);
-    digitalWrite(YELLOWB,LOW);
-    digitalWrite(GREENB,LOW);}/*/
+ 
 }
 
 long microsecondsToInches(long microseconds) {
