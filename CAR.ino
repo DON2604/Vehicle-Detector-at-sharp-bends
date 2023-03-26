@@ -44,13 +44,7 @@ void loop() {
    
    pinMode(echoPin2, INPUT);
    duration2 = pulseIn(echoPin2, HIGH);
-   
-   
-   
-   
-   
-   
-   
+ 
    inches = microsecondsToInches(duration);
    cm = microsecondsToCentimeters(duration);
    
