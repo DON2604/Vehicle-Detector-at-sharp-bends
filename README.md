@@ -14,7 +14,6 @@ The detection of vehicle around sharp ends is a critical factor for preventing a
 
 This project is to ensure safe driving conditions.
 
-
 # Things Needed   🔧🔨
 | Name |  Quantity  | Component |
 |:-----|:--------:|------:|
