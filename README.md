@@ -50,22 +50,22 @@ close to each other which can cause accident immediately
 
 
 
-## Project Leaders
+## Project Leaders    👩🏼‍💻👩🏼‍💻👨🏼‍💻👨🏼‍💻👨🏼‍💻
 
 - [@Mrinmay Das](https://github.com/DON2604)
 - [@Tonima Das](https://github.com/tonima26122004)
 - [@Sayantika Pal](https://github.com/Sayanti11112003)
 
 
-## Badges
+## Badges   🎖
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-# Demo Working
+# Demo Working     📷📽
 ![car](https://user-images.githubusercontent.com/89240074/229312789-f4cefbe1-fd33-4f70-85dd-5bd85851bb8d.gif)
 
 
 
-## Support
+## Support  🤝🏼
 
 For support, email mrinmaydas2604@gmail.com
