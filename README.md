@@ -39,9 +39,9 @@ It uses two ultrasonic sensor placed at the sharp bends at an angle of 90° with
 ### COLOUR REFERENCE:       🚥
 
 🔴 RED--When the cars are very     
-close to each other which can cause accident immediately
+close to each other which can cause accident immediately.
 
-🟡 YELLOW--when the cars are at medium distance such as there is a lesser chance of accident
+🟡 YELLOW--when the cars are at medium distance such as there is a lesser chance of accident.
 
 🔵 BLUE--when the distance is very high or there is no car in the accident range.
 
