@@ -55,7 +55,7 @@ close to each other which can cause accident immediately.
 
 ## Badges   🎖
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Demo Working     📷📽
 ![car](https://user-images.githubusercontent.com/89240074/229312789-f4cefbe1-fd33-4f70-85dd-5bd85851bb8d.gif)
