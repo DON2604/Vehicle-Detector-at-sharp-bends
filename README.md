@@ -52,7 +52,7 @@ close to each other which can cause accident immediately.
 
 - [@Mrinmay Das](https://github.com/DON2604)
 - [@Tonima Das](https://github.com/tonima26122004)
-- [@Sayantika Pal](https://github.com/Sayanti11112003)
+- [@Sayantika Pal](https://github.com/foxy111103)
 
 
 ## Badges   🎖
