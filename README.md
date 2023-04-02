@@ -24,7 +24,7 @@ This project is to ensure safe driving conditions.
 | DB2, DS | **2** |   YELLOW LED  |
 | R1,R2,R3 | **6** |   1 kΩ Resistor |
 
-# Circuit Diagram ⚡🔌
+# Circuit Diagram ⚡🔌   
 
 ![Screenshot (1169)](https://user-images.githubusercontent.com/89240074/229310657-81e34e38-1389-462e-93f0-b31b7c22080e.png)
 
