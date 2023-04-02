@@ -48,14 +48,10 @@ close to each other which can cause accident immediately.
 
 
 
-## Project Leaders    👩🏼‍💻👩🏼‍💻👨🏼‍💻👨🏼‍💻👨🏼‍💻
-
-- [@Mrinmay Das](https://github.com/DON2604)
-- [@Tonima Das](https://github.com/tonima26122004)
-- [@Sayantika Pal](https://github.com/foxy111103)
-
-#### Mentions
-- [@Swarnim Paul](https://github.com/Swarnim783)
+## Contributors
+<a href="https://github.com/DON2604/Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DON2604/Vehicle-Detector-at-sharp-bends"/>
+</a>
 
 ## Badges   🎖
 
@@ -69,3 +65,10 @@ close to each other which can cause accident immediately.
 ## Support  🤝🏼
 
 For support, email mrinmaydas2604@gmail.com
+
+## Acknowledgements    👩🏼‍💻👩🏼‍💻👨🏼‍💻👨🏼‍💻👨🏼‍💻
+
+- [@Mrinmay Das](https://github.com/DON2604)
+- [@Tonima Das](https://github.com/tonima26122004)
+- [@Sayantika Pal](https://github.com/foxy111103)
+- [@Swarnim Paul](https://github.com/Swarnim783)
